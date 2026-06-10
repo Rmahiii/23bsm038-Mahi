@@ -10,19 +10,19 @@ rmahi0773@gmail.com
 
 ## About Me  
 
-I’m currently working on:  
+**I’m currently working on:**  
 Building scalable web applications using React.js and Javascript  
 
-I’m currently learning:  
+**I’m currently learning:**
 Advanced Backend Development & System Design  
 
-I’m looking to collaborate on:  
+**I’m looking to collaborate on:**  
 Full Stack Web Applications and Open Source Projects  
 
-Ask me about:  
+**Ask me about:** 
 React.js, Next.js, Node.js, MongoDB, TypeScript, Javascript, C++, HTML, CSS, Express.js 
 
-Fun fact:  
+**Fun fact:**  
 I enjoy building real-world products and contributing to open source 
 
 ## Socials:
