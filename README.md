@@ -5,7 +5,7 @@
 📍 Jabalpur, India  
 📫 rmahi0773@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mahi-raj-07aa62354)  
-💻 [GitHub](https://github.com/23bsm038-Mahi)  
+💻 [GitHub](https://github.com/Rmahiii)  
 
 ---
 
